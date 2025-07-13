@@ -3,7 +3,7 @@
 
 Build Scalable, Secure Microservices with Confidence
 
- ![Coverage](https://img.shields.io/badge/coverage-100.0%25-brightgreen) ![Languages](https://img.shields.io/github/languages/count/SıdarYilmaz/simple-microservices-GOLANG)
+ ![Coverage](https://img.shields.io/badge/coverage-100.0%25-brightgreen) 
 
 Built with the tools and technologies:
 * Markdown
